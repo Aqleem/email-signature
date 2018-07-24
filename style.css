@@ -1,0 +1,61 @@
+.container{
+    display: flex;
+    position: relative;
+    border: 2px solid black;
+    width: 800px;
+    height: 300px;
+}
+.logo{
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+
+}
+#james{
+   font-family: Verdana;
+    color: #26bfb6;
+    font-size: 25pt;
+    font-style: italic;
+
+}
+#mfp{
+    font-family: Verdana;
+    color: #ed5a24;
+    font-size: 16.5pt;
+}
+#mw{
+        font-family: Verdana;
+    font-size: 17pt;
+}
+span{
+    color: #26bfb6;
+}
+.james{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 30px;
+    top: 20px;
+}
+.para{
+    position: absolute;
+   left: 300px;
+   bottom: 18px;
+   
+
+}
+.titles{
+     position: absolute;
+   left: 300px;
+   top: 0px;
+
+}
+.sociall{
+    height: 50px;
+    width: 50px;
+}
+.social{
+    position: absolute;
+    right: 160px;
+    bottom: 22px;
+}
